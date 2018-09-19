@@ -1,2 +1,2 @@
 # DoIP
-DoIP software stack, welcome coding friend in vehicle to commit
+DoIP software stack, welcome coding friends in vehicle area to contribute
